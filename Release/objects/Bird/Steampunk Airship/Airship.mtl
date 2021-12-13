@@ -1,0 +1,129 @@
+newmtl default2
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.6 0.6 0.6
+Km 0
+map_Kd SPA Balloon_colour.jpg
+
+newmtl default4
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.6 0.6 0.6
+Km 0
+map_Kd Balloon frame_default4_color.jpg
+
+newmtl default
+d 1
+Ns 1
+Ni 0
+Ka 0.788235 0.811765 0.690196
+Kd 0.788235 0.811765 0.690196
+Ks 1 1 1
+Km 0
+
+newmtl default47
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.6 0.6 0.6
+Km 0
+map_Kd Cabin_colour.jpg
+
+newmtl default4_Cabin_Cage
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.6 0.6 0.6
+Km 0
+map_Kd Cabin Cage Colour.jpg
+
+newmtl default46
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.6 0.6 0.6
+Km 0
+map_Kd Nacelles_colour 3.jpg
+
+newmtl default45
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.6 0.6 0.6
+Km 0
+map_Kd Nacelles_colour 3.jpg
+
+newmtl default2_Promenade
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.6 0.6 0.6
+Km 0
+map_Kd Promenade_colour.jpg
+
+newmtl default3
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.6 0.6 0.6
+Km 0
+map_Kd Propellers_colour.jpg
+
+newmtl default2_Struts
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.6 0.6 0.6
+Km 0
+map_Kd Struts_colour.jpg
+
+newmtl default44
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.6 0.6 0.6
+Km 0
+map_Kd sky-8.jpg
+
+newmtl default43
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.6 0.6 0.6
+Km 0
+map_Kd sky-8.jpg
+
+newmtl default42
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.6 0.6 0.6
+Km 0
+map_Kd sky-8.jpg
+

@@ -1,0 +1,13 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b
+
+newmtl gravestone01
+	Ns 9.999999
+	Ni 1.500000
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka ..\maps\gravestone01_color.jpg
+	map_Kd ..\maps\gravestone01_color.jpg
+	map_bump ..\maps\gravestone01_nmap.jpg
+	bump ..\maps\gravestone01_nmap.jpg

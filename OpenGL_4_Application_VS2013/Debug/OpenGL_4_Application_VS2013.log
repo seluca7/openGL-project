@@ -1,0 +1,22 @@
+﻿  OpenGL_4_Application_VS2013.cpp
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(36): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(218): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(219): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(223): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(224): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(226): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(227): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(231): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(233): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(273): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(278): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(385): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(460): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(461): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(510): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(518): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(519): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(659): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(670): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\luci\desktop\spg\raduandrada_gr30235_app\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(684): warning C4305: 'argument': truncation from 'double' to 'float'
+  OpenGL_4_Application_VS2013.vcxproj -> C:\Users\Luci\Desktop\spg\RaduAndrada_gr30235_app\Debug\OpenGL_4_Application_VS2013.exe

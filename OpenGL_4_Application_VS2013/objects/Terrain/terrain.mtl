@@ -1,0 +1,18 @@
+# Exported from Bryce 6.0
+
+newmtl material_1
+    Ns 405
+    d 1.000000
+    illum 2
+    #bump_amt 0.345098
+    #refl_amt 0.000000
+    #amb_amt 0.305085
+    #dif_amt 1.000000
+    #spec_amt 0.000000
+    Ka 0.165105 0.135194 0.111266
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.000000 0.000000 0.000000
+    Tf 1.000000 1.000000 1.000000
+    map_Ka "Terrain 1_mtl1_ambicol.bmp"
+    map_Kd "Terrain 1_mtl1_diffcol.bmp"
+    map_Bump "Terrain 1_mtl1_bumpamt.bmp"

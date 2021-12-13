@@ -1,0 +1,13 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b
+
+newmtl skull
+	Ns 9.999999
+	Ni 1.500000
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka ..\maps\skull_color.jpg
+	map_Kd ..\maps\skull_color.jpg
+	map_bump ..\maps\skull_nmap.jpg
+	bump ..\maps\skull_nmap.jpg

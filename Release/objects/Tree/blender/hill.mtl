@@ -1,0 +1,14 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b
+
+newmtl hill
+	Ns 0.000000
+	Ni 1.500000
+	Ka 0.000000 0.000000 0.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka ..\maps\hill_color.jpg
+	map_Kd ..\maps\hill_color.jpg
+	map_Ks ..\maps\hill_specular.jpg
+	map_bump ..\maps\hill_nmap.jpg
+	bump ..\maps\hill_nmap.jpg
